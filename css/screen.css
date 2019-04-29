@@ -145,6 +145,13 @@ li ol {
   margin-bottom: 0;
 }
 
+li {
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  list-style-type: none;
+  text-decoration: none;
+}
+
 blockquote {
   font-style: normal;
   font-size: 23px;
